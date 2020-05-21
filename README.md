@@ -20,10 +20,14 @@ Inspired by [`CVPR-2020-Paper-Statistics`](https://github.com/hoya012/CVPR-2019-
 # CVPR 2020 Paper Keywords statistics
 
 - Most of the top keywords were maintained
-
+   - Image, detection, 3d, object, video, segmentation, adversarial, recognition, visual …
+- `search`, `self-supervised`, `semi-supervised` are about twice as frequent
+   - graph : 18 -> 39
+   - self-supervised: 12 -> 33
+   - semi-supervised: 12 -> 25
 
 <p align="center">
-  <img width="1000" src="/2020_cvpr/top_keywords_2020+2019.jpg">
+  <img width="1000" src="https://github.com/hoya012/CVPR-2020-Paper-Statistics/blob/master/2020_cvpr/top_keywords_2019%2B2020.jpg">
 </p>
 
 # Analysis and Visualization Code (Jupyter Notebook)
